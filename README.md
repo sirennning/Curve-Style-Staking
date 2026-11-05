@@ -338,6 +338,8 @@ forge coverage
 | ve 锁仓与 Gauge 投票 | 历史 ve、周权重、两个 Gauge、原生预算按时间和权重接入 |
 | 治理与完善 | 独立协议提案、Timelock、权限交接、完整测试和最小演示 |
 
+<a name="references"></a>
+
 ## 14. 参考与许可
 
 - [Curve Gauge 概览](https://knowledge.curve.finance/protocol/gauge/overview)
